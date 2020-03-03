@@ -1,0 +1,9 @@
+C:\Users\iooop\source\repos\200427653A1\200427653A1\bin\Debug\200427653A1.exe.config
+C:\Users\iooop\source\repos\200427653A1\200427653A1\bin\Debug\200427653A1.exe
+C:\Users\iooop\source\repos\200427653A1\200427653A1\bin\Debug\200427653A1.pdb
+C:\Users\iooop\source\repos\200427653A1\200427653A1\obj\Debug\200427653A1.csprojAssemblyReference.cache
+C:\Users\iooop\source\repos\200427653A1\200427653A1\obj\Debug\_200427653A1.Form1.resources
+C:\Users\iooop\source\repos\200427653A1\200427653A1\obj\Debug\_200427653A1.Properties.Resources.resources
+C:\Users\iooop\source\repos\200427653A1\200427653A1\obj\Debug\200427653A1.csproj.GenerateResource.cache
+C:\Users\iooop\source\repos\200427653A1\200427653A1\obj\Debug\200427653A1.exe
+C:\Users\iooop\source\repos\200427653A1\200427653A1\obj\Debug\200427653A1.pdb
